@@ -42,7 +42,7 @@
     "mobx-react": "^5.4.3",
     "mobx-react-devtools": "^6.1.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-loader": "^3.0.0",
     "postcss-pxtorem": "^4.0.0",
